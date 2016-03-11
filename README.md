@@ -11,3 +11,8 @@ The source code for the guide found [over here at devwalks!](http://www.devwalks
 [Part 2 - Test Driven](http://www.devwalks.com/bdd-handbook-lets-build-instagram-with-rails-part-2/)
 
 [Part 3 - Fabulous Forms & Pagination](http://www.devwalks.com/lets-build-instagram-part-3-fabulous-forms-pleasant-pagination/)
+
+![Demo](https://github.com/afgnsu/photogram/blob/master/DEMO.png)
+![Demo1](https://github.com/afgnsu/photogram/blob/master/DEMO1.png)
+![Demo2](https://github.com/afgnsu/photogram/blob/master/DEMO2.png)
+
